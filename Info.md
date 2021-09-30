@@ -1,0 +1,3 @@
+new line
+
+git revert
